@@ -1,3 +1,6 @@
+#Hello
+#Welcome to my first repo
+
 def part_1():
     #Part 1
 
